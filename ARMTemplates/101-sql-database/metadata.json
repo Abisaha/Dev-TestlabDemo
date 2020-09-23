@@ -1,9 +1,9 @@
 {
   "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
   "type": "QuickStart",
-  "itemDisplayName": "Provision a Web App with a SQL Database",
+  "itemDisplayName": "Provision SQLserver and Database",
   "description": "This template provisions a Web App, a SQL Database, AutoScale settings, Alert rules, and App Insights. It configures a connection string in the web app for the database.",
-  "summary": "Provision a Web App with a SQL Database",
+  "summary": "Provision SQLserver and Database",
   "githubUsername": "Microsoft",
   "tags":{
     "subscriptiontype": "Azure4Student",
