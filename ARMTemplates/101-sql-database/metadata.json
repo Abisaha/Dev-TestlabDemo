@@ -4,7 +4,7 @@
   "itemDisplayName": "Provision SQLserver and Database",
   "description": "This template provisions a Web App, a SQL Database, AutoScale settings, Alert rules, and App Insights. It configures a connection string in the web app for the database.",
   "summary": "Provision SQLserver and Database",
-  "githubUsername": "Microsoft",
+  "githubUsername": "lessor",
   "tags":{
     "subscriptiontype": "Azure4Student",
     "resource":"appServices,Web App, SQL",
